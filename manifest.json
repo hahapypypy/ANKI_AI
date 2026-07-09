@@ -1,0 +1,10 @@
+{
+    "name": "AI 圖片生成助手",
+    "package": "ai_image_helper",
+    "version": "0.1.0",
+    "author": "Custom Author",
+    "desc": "為 Anki 卡片自動生成圖片的自定義附加元件。",
+    "mod": 0,
+    "min_point_version": 0,
+    "max_point_version": 250204
+}
