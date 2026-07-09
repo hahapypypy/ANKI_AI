@@ -1,0 +1,6 @@
+{
+  "tests/test_addon_import.py::test_addon_init_can_load_helper_module_from_sibling_file": true,
+  "tests/test_manifest.py::ManifestTests::test_manifest_contains_required_addon_fields": true,
+  "tests/test_prompt_builder.py::PromptBuilderTests::test_build_prompt_inserts_extra_prompt_at_front_and_keeps_required_sections": true,
+  "tests/test_prompt_builder.py::PromptBuilderTests::test_build_prompt_omits_empty_optional_sections": true
+}
